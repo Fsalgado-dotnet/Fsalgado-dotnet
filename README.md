@@ -25,9 +25,9 @@ Tenho interesse em Desenvolvimento Web, Engenharia de Software, Automação de P
 
 Com uma bagagem profissional sólida no setor comercial, trago forte capacidade de comunicação, trabalho em equipe, resolução de problemas e adaptabilidade para a área de tecnologia.
 
-Busco uma oportunidade de estágio ou posição júnior em Desenvolvimento de Software, na qual possa aplicar meus conhecimentos técnicos, desenvolver minhas habilidades, aprender com profissionais da área e contribuir para a criação de soluções tecnológicas.
+Procuro uma oportunidade de estágio ou posição júnior em Desenvolvimento de Software, na qual possa aplicar os meus conhecimentos técnicos, desenvolver as minhas habilidades, aprender com profissionais da área e contribuir para a criação de soluções tecnológicas.
 
-Estou aberto a novas conexões, aprendizados e oportunidades na área de tecnologia. Fique à vontade para entrar em contato e trocar experiência.
+Estou aberto a novas conexões, aprendizados e oportunidades na área de tecnologia. 
 
 ---
 
