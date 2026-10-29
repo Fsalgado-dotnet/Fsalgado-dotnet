@@ -8,24 +8,22 @@
   ██║     ██║  ██║██████╔╝██║╚██████╔╝    ███████║██║  ██║███████╗╚██████╔╝██║  ██║██████╔╝╚██████╔╝
   ╚═╝     ╚═╝  ╚═╝╚═════╝ ╚═╝ ╚═════╝     ╚══════╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝  ╚═════╝ 
 
-                       Education: Assembly School
-                       Focus: Software Development
-            Studying: Front-End • Back-End • Node.js • C# 
-📌 About Me
+                            Curso: Assembly School
+                   Foco: Desenvolvimento de Software & Automação
+            Estudando: C# • JavaScript • Node.js • Python • Desenvolvimento Web
 
-👋 Hi! I'm a programming enthusiast in career transition, currently diving into the world of software development. I'm studying at Assembly School, where I'm acquiring practical and theoretical skills in programming.
+📌 Sobre mim
 
-💻 With a strong desire to learn and grow, I'm focused on mastering languages like C#, JavaScript, and Python, as well as exploring web development concepts and software design.
+Tenho interesse em Desenvolvimento Web, Engenharia de Software, Automação de Processos e Inteligência Artificial. Possuo conhecimentos em HTML, CSS, JavaScript, Node.js, C# e Python, aplicados na criação e estilização de aplicações web, automações e integração de sistemas, além de lógica de programação e controlo de versão.
 
-🌱 I'm always looking for new challenges and opportunities to apply my knowledge in real projects. I believe that programming is a powerful tool for solving problems and creating innovative solutions.
+Com uma bagagem profissional sólida no setor comercial, trago forte capacidade de comunicação, trabalho em equipa, resolução de problemas e adaptabilidade para a área de tecnologia.
 
-🚀 I'm excited to connect with other developers and contribute to collaborative projects. Let's work together to turn ideas into reality!
+Busco uma oportunidade de estágio ou posição júnior em Desenvolvimento de Software, na qual possa aplicar os meus conhecimentos técnicos, aprender com profissionais experientes e contribuir para o desenvolvimento de soluções inovadoras.
+🧠 IDE's e Editores
+🎨 Front-End
+🛠️ Back-End & Automação
+🔧 Controle de Versão & Sistemas
+🤖 Inteligências Artificiais (IA)
+🎓 Formação
 
-📫 Feel free to reach out or collaborate on projects!
-🛠️ Languages and Tools
-
-    Languages: C#, JavaScript, Python, HTML5, CSS3
-
-    Runtime & Frameworks: Node.js
-
-    Tools & Systems: Git, GitHub, Linux
+Assembly School — Desenvolvimento de Software
