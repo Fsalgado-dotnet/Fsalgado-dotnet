@@ -104,8 +104,6 @@ Estou totalmente disponível para novas conexões, partilha de conhecimentos e o
 
 * **Assembly School** — Desenvolvimento de Software (Full Stack Developer)
 
-* ---
-
 <div align="center">
   <h3>🐍 Atividade de Contribuições</h3>
   
