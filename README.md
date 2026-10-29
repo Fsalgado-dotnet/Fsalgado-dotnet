@@ -71,7 +71,7 @@ Estou totalmente disponível para novas conexões, partilha de conhecimentos e o
 
 ---
 
-### 🗄️ Banco de Dados
+### 🗄️ Base de Dados
 
 <p>
   <img src="https://img.shields.io/badge/SQL%20SERVER-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
