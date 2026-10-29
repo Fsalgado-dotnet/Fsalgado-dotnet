@@ -1,17 +1,17 @@
 <div align="center">
 
 ```text
-  ██████╗ █████╗ ██████╗ ██╗██████╗     ██████╗ █████╗ ██╗     ██████╗  █████╗ ██████╗ ██╗
-  ██╔═══╝██╔══██╗██╔══██╗██║██╔══██╗    ██╔════╝██╔══██╗██║     ██╔════╝ ██╔══██╗██╔══██╗██║
-  █████╗ ███████║██████╔╝██║██║  ██║    ██████╗ ███████║██║     ██║  ███╗███████║██║  ██║██║
-  ██╔══╝ ██╔══██║██╔══██╗██║██║  ██║    ╚════██╗██╔══██║██║     ██║   ██║██╔══██║██║  ██║╚═╝
-  ██║    ██║  ██║██████╔╝██║╚██████╔╝    ██████╔╝██║  ██║███████╗╚██████╔╝██║  ██║██████╔╝██╗
-  ╚═╝    ╚═╝  ╚═╝╚═════╝ ╚═╝ ╚═════╝     ╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝
+  ███████╗ █████╗ ██████╗ ██╗ ██████╗     ███████╗ █████╗ ██╗      ██████╗  █████╗ ██████╗  ██████╗ 
+  ██╔════╝██╔══██╗██╔══██╗██║██╔═══██╗    ██╔════╝██╔══██╗██║     ██╔════╝ ██╔══██╗██╔══██╗██╔═══██╗
+  █████╗  ███████║██████╔╝██║██║   ██║    ███████╗███████║██║     ██║  ███╗███████║██║  ██║██║   ██║
+  ██╔══╝  ██╔══██║██╔══██╗██║██║   ██║    ╚════██║██╔══██║██║     ██║   ██║██╔══██║██║  ██║██║   ██║
+  ██║     ██║  ██║██████╔╝██║╚██████╔╝    ███████║██║  ██║███████╗╚██████╔╝██║  ██║██████╔╝╚██████╔╝
+  ╚═╝     ╚═╝  ╚═╝╚═════╝ ╚═╝ ╚═════╝     ╚══════╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═════╝  ╚═════╝ 
 
-
-
-
-
+                       Education: Assembly School
+                       Focus: Software Development
+            Studying: Front-End • Back-End • Node.js • C# 
+📌 About Me
 
 👋 Hi! I'm a programming enthusiast in career transition, currently diving into the world of software development. I'm studying at Assembly School, where I'm acquiring practical and theoretical skills in programming.
 
@@ -22,8 +22,10 @@
 🚀 I'm excited to connect with other developers and contribute to collaborative projects. Let's work together to turn ideas into reality!
 
 📫 Feel free to reach out or collaborate on projects!
+🛠️ Languages and Tools
 
-<!---
-Fsalgado-dotnet/Fsalgado-dotnet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    Languages: C#, JavaScript, Python, HTML5, CSS3
+
+    Runtime & Frameworks: Node.js
+
+    Tools & Systems: Git, GitHub, Linux
